@@ -4,4 +4,8 @@
 锄禾日当午,汗滴禾下土
 
 
+<<<<<<< HEAD
 你好啊
+=======
+hello word
+>>>>>>> c2da0046e633fe81b6dfedeb9485eb5b7bbdfc41
